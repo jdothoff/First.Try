@@ -1,0 +1,15 @@
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\obj\Debug\net8.0\PracticeLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\obj\Debug\net8.0\PracticeLoops.AssemblyInfoInputs.cache
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\obj\Debug\net8.0\PracticeLoops.AssemblyInfo.cs
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\obj\Debug\net8.0\PracticeLoops.csproj.CoreCompileInputs.cache
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\obj\Debug\net8.0\PracticeLoops.sourcelink.json
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\bin\Debug\net8.0\PracticeLoops.exe
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\bin\Debug\net8.0\PracticeLoops.deps.json
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\bin\Debug\net8.0\PracticeLoops.runtimeconfig.json
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\bin\Debug\net8.0\PracticeLoops.dll
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\bin\Debug\net8.0\PracticeLoops.pdb
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\obj\Debug\net8.0\PracticeLoops.dll
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\obj\Debug\net8.0\refint\PracticeLoops.dll
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\obj\Debug\net8.0\PracticeLoops.pdb
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\obj\Debug\net8.0\PracticeLoops.genruntimeconfig.cache
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeLoops\obj\Debug\net8.0\ref\PracticeLoops.dll
