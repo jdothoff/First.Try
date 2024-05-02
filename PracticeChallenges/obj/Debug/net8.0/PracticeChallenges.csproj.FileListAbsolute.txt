@@ -1,0 +1,5 @@
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\PracticeChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\PracticeChallenges.AssemblyInfoInputs.cache
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\PracticeChallenges.AssemblyInfo.cs
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\PracticeChallenges.csproj.CoreCompileInputs.cache
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\PracticeChallenges.sourcelink.json
