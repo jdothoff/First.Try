@@ -3,3 +3,13 @@ C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\
 C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\PracticeChallenges.AssemblyInfo.cs
 C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\PracticeChallenges.csproj.CoreCompileInputs.cache
 C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\PracticeChallenges.sourcelink.json
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\bin\Debug\net8.0\PracticeChallenges.exe
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\bin\Debug\net8.0\PracticeChallenges.deps.json
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\bin\Debug\net8.0\PracticeChallenges.runtimeconfig.json
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\bin\Debug\net8.0\PracticeChallenges.dll
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\bin\Debug\net8.0\PracticeChallenges.pdb
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\PracticeChallenges.dll
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\refint\PracticeChallenges.dll
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\PracticeChallenges.pdb
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\PracticeChallenges.genruntimeconfig.cache
+C:\Users\U1J447\Revature\Practice\First.Try\PracticeChallenges\obj\Debug\net8.0\ref\PracticeChallenges.dll
